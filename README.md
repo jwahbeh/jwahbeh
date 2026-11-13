@@ -1,8 +1,9 @@
-Hi, I'm Joe — a recent CS grad rebuilding my foundations the real way.
+Hi, I'm Joe. I graduated from Central Michigan University with a B.S. in Computer Science in May 2026, and I'm working through the boot.dev backend developer path to build real fundamentals.
 
-- 🎓 **Central Michigan University** — B.S. Computer Science, May 2026
-- 📚 Working through the [boot.dev](https://www.boot.dev) backend developer path — *Learn Linux* ✅, *Learn Python for Beginners* ✅, *[Bookbot](https://github.com/jwahbeh/bookbot)* ✅ (all Oct 2026)
-- 🧑‍🏫 Former Supplemental Instruction Leader (×2) and SI Supervisor at CMU — I'm used to explaining concepts clearly, including my own code
-- 🏗️ **Clean slate on purpose:** this profile only holds work I built myself and can fully explain. New projects ship as each phase of the path lands — next up, *Learn Git*.
+Finished so far: Learn Linux, Learn Python, Bookbot, Learn Git, Learn OOP, and Asteroids — a full game built with Python and Pygame.
 
-**Building toward:** an entry-level software engineering role, starting with real backend fundamentals — Linux, Git, Python, Go.
+Before that, I was a Supplemental Instruction Leader (twice) and SI Supervisor at CMU, so explaining things clearly is kind of my thing.
+
+Everything here is work I built myself and can fully explain. Next up: Learn Functional Programming.
+
+I'm working toward an entry-level software engineering role.
